@@ -2,11 +2,12 @@
 
 ## Find resources
 
-Using [NIS-Elements](https://www.nis-elements.cz/en)? Want to integrate with open source solution? Need examples to make better JOBS and GA3 recipes? 
+Using [NIS-Elements](https://www.nis-elements.cz/en)? Need examples to use full potential of GA3 and JOBS? Want to integrate with open source solution?
 
-<!-- [Explore featured projects](https://github.com/orgs/Laboratory-Imaging/projects) -->
+See these repos:
+
+- [GA3 examples](https://github.com/Laboratory-Imaging/GA3-examples)
+- [JOBS examples](https://github.com/Laboratory-Imaging/JOBS-examples)
 
 ## Coming soon...
-
 - ND2 file format specifications
-- GA3 and JOBs examples
