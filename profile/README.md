@@ -16,3 +16,11 @@ Programs:
 ## Coming soon...
 - ND2 file format specifications
 - ND2 examples and tools for python
+
+## Nikon resources
+
+[Register](https://www.microscope.healthcare.nikon.com/resources/e-learning) to Nikon Customer Learning Center to get
+access to more e-Learning material.
+
+For example:
+- [Full JOBs A-Z curriculum](https://training.nikoninstruments.com/)
